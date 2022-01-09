@@ -30,19 +30,6 @@ Note that directly copying the code may not work due to different package names.
 > How it Looks
 
 ---
+![image](https://user-images.githubusercontent.com/78153901/148685200-dea9363c-67bb-4666-9397-aaf04c887af6.png)
 
-<img src="DiceRoller.jpeg" width="250" height="450"/>
-<img src="Calculator.jpeg" width="250" height="450"/>
-<!-- Blockquote -->
-
----
-
-<!-- Images -->
-
-<!-- Github Markdown -->
-
----
-
----
-
-[Armaan Jain](https://www.instagram.com/_armaanjain/?hl=en "Armaan Jain")
+-Manish Walia
